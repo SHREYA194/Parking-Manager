@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MainText">
+        <item name="android:textColor">@color/MainTextColor1</item>
+        <item name="android:textSize">48sp</item>
+        <item name="android:fontFamily">sans-serif-smallcaps</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BasicTxt">
+        <item name="android:textColor">@color/MainTextColor1</item>
+        <item name="android:textSize">24sp</item>
+        <item name="fontFamily">sans-serif-smallcaps</item>
+    </style>
+
+    <style name="EditTxt">
+        <item name="android:textSize">14sp</item>
+        <item name="android:ems">14</item>
+        <item name="android:textColorHint">@color/HintTextColour1</item>
+    </style>
+
+    <style name="Btn">
+        <item name="android:textSize">16sp</item>
+        <item name="cornerRadius">25dp</item>
+    </style>
+
+    <style name="BasicTxt2">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/MainTextColor1</item>
+    </style>
+
+</resources>

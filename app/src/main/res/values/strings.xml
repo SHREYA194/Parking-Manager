@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"><i>  Parking Manager</i></string>
+    <string name="login"><u>Login</u></string>
+    <string name="not_registered"><u>Not  Registered ?</u></string>
+    <string name="register"><u>Registration</u></string>
+    <string name="registered"><u>Registered ?</u></string>
+    <string name="menulogout">Logout</string>
+</resources>
